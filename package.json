@@ -1,5 +1,5 @@
 {
-  "name": "prac-js-react",
+  "name": "2023-frontend-basic-js-react-migration",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -58,7 +58,7 @@
     "@storybook/react-webpack5": "^7.0.6",
     "@storybook/testing-library": "^0.0.14-next.2",
     "babel-plugin-named-exports-order": "^0.0.2",
-    "chromatic": "chromatic --project-token=$CHROMATIC_PROJECT_TOKEN",
+    "chromatic": "^6.17.4",
     "prop-types": "^15.8.1",
     "storybook": "^7.0.6",
     "webpack": "^5.80.0"
