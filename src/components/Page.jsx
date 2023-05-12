@@ -21,7 +21,3 @@ export const Page = () => {
     </div>
   );
 };
-
-//buttonとscreenを分けてpageで合体してpropsの受け取りを学べるように
-//作成する手順の説明とreactの説明
-//教材にまとまりのある説明をするしてはさめそうならreactの説明も入れる
